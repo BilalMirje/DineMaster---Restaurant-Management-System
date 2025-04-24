@@ -1,0 +1,14 @@
+content_assist_autoactivation_triggers_java=.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.service.ContactService"><rhs name\="com.service.ContactServiceImpl"/></lhs><lhs name\="com.service.ContactServiceImpl"><rhs name\="com.service.ContactServiceImpl"/></lhs><lhs name\="com.model.ContactPojo"><rhs name\="com.model.ContactPojo"/></lhs><lhs name\="com.dao.ContactDao"><rhs name\="com.dao.ContactDaoImpl"/></lhs><lhs name\="com.dao.ContactDaoImpl"><rhs name\="com.dao.ContactDaoImpl"/></lhs><lhs name\="com.dao.ServiceDao"><rhs name\="com.dao.ServiceDaoImpl"/></lhs><lhs name\="com.dao.ServiceDaoImpl"><rhs name\="com.dao.ServiceDaoImpl"/></lhs><lhs name\="com.model.ServiceModulePojo"><rhs name\="com.model.ServiceModulePojo"/></lhs><lhs name\="com.service.ServiceModuleService"><rhs name\="com.service.ServiceModuleServiceImpl"/></lhs><lhs name\="com.service.ServiceModuleServiceImpl"><rhs name\="com.service.ServiceModuleServiceImpl"/></lhs><lhs name\="com.dao.UserRegistrationDao"><rhs name\="com.dao.UserRegistrationDaoImpl"/></lhs><lhs name\="com.dao.UserRegistrationDaoImpl"><rhs name\="com.dao.UserRegistrationDaoImpl"/></lhs><lhs name\="com.dao.UserLoginDao"><rhs name\="com.dao.UserLoginDaoImpl"/></lhs><lhs name\="com.dao.UserLoginDaoImpl"><rhs name\="com.dao.UserLoginDaoImpl"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.sql.SQLException"/><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.sql.SQLException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.sql.SQLException"/></lhs><lhs name\="java.sql.SQLException"><rhs name\="java.sql.SQLException"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="com.smartfinder.dao.LostItemDao"><rhs name\="com.smartfinder.dao.LostItemDao"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+sourceHoverBackgroundColor=255,255,225
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
